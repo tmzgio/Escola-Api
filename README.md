@@ -6,8 +6,8 @@ Sistema escolar,biblioteca e a ponte de autenticação que liga ambas. A escola 
 
 COMANDOS BASE: 
 Para o funcionamento desse projeto foi necessário o uso de um framework e uma linguagem de programação. Irei listar ambas as documentações abaixo.
-<a href=https://www.php.net></a>
-<a href=https://getcomposer.org></a>
+<a href=https://www.php.net> PHP </a>
+<a href=https://laravel.com/docs/10.x> LARAVEL</a>
 
 ROTAS UTILIZADAS NO PROCESSO:
 Na primeira rota utilizei o josn hello_url como retorno onde o usuário ao digitar / irá receber a  URL dos recursos.
