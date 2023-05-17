@@ -12,11 +12,13 @@ Para o funcionamento desse projeto foi necessário o uso de um framework e uma l
 <a href=https://laravel.com/docs/10.x> LARAVEL</a>
 
 ROTAS UTILIZADAS NO PROCESSO:
+<br>
 Na primeira rota utilizei o josn hello_url como retorno onde o usuário ao digitar / irá receber a  URL dos recursos.
 Já na segunda rota utilizei o /hello como retorno de usuário onde irá aparecer na tela Hello, World.
 
 
 USO DO PROJETO:
+<br>
 Com os arquivos em seu computador agora agora iremos utilizar o comando dentro desta pasta para iniciar a aplicação: 
 O composer update irá instalar todas as pendências.
 Já o php artisan serve --port=<port> onde o <port> será a porta desejada.
