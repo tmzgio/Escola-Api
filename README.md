@@ -10,8 +10,9 @@ Para o funcionamento desse projeto foi necessário o uso de um framework e uma l
 <a href=https://getcomposer.org></a>
 
 ROTAS UTILIZADAS NO PROCESSO:
-/ Fornece todos os padrões de URL dos recursos;
-/hello Url de teste, devolve Hello, World!
+Na primeira rota utilizei o josn hello_url como retorno onde o usuário ao digitar / irá receber a  URL dos recursos.
+Já na segunda rota utilizei o /hello como retorno de usuário onde irá aparecer na tela Hello, World.
+
 
 USO DO PROJETO:
 Com os arquivos em seu computador agora agora iremos utilizar o comando dentro desta pasta para iniciar a aplicação: 
