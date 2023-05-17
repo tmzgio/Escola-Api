@@ -8,6 +8,7 @@ COMANDOS BASE:
 Para o funcionamento desse projeto foi necessário o uso de um framework e uma linguagem de programação. Irei listar ambas as documentações abaixo.
 <br>
 <a href=https://www.php.net> PHP </a>
+<br>
 <a href=https://laravel.com/docs/10.x> LARAVEL</a>
 
 ROTAS UTILIZADAS NO PROCESSO:
