@@ -5,4 +5,5 @@ O projeto propõe o processo de criar sistemas que passar por comunicações ent
 Sistema escolar,biblioteca e a ponte de autenticação que liga ambas. A escola no decorrer do projeto irá contar com diversos cadastros e dados tanto de docentes como de dicentes e irá haver ligações durante toda a aplicação. 
 
 COMANDOS BASE: Para o funcionamento desse projeto foi necessário o uso de um framework e uma linguagem de programação. Irei listar ambas as documentações abaixo.
-<a href=(https://www.php.net/)></a>
+<a href=https://www.php.net/></a>
+<a href=https://getcomposer.org/></a>
